@@ -3,7 +3,6 @@ tmp
 .history
 .cache
 build
-dist
 .idea
 *.iml
 .idea_modules
