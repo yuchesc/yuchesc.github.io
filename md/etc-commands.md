@@ -41,7 +41,7 @@ git checkout develop
 ### undo add
 
 ```git
-git rm —cached [file]
+git rm --cached [file]
 ```
 
 ### delete local branch
