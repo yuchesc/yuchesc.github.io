@@ -1,7 +1,5 @@
 # MEMO command list
 
-[toc]
-
 ## sbt tgz instead of ZIP
 
 ```bash
