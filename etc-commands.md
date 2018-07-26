@@ -6,6 +6,17 @@
 sbt universal:package-zip-tarball
 ```
 
+
+### Publish maven central
+
+```bash
+sbt +publishSigned
+```
+
+Go to https://oss.sonatype.org/
+
+Close and Release.
+
 ## Play new app
 
 ```bash
@@ -90,3 +101,4 @@ systemctl list-unit-files|grep enabled
 ```python
  :doc:`filename`
 ```
+
