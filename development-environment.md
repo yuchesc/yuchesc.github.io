@@ -6,7 +6,7 @@
 
 Mainly I use it for Scala (Play Framework).
 
-Others: PHP, javascript, Stylus, HTML, etc...
+Others: Python3, PHP, javascript, Stylus, HTML, etc...
 
 ### emacs
 
@@ -33,10 +33,3 @@ I like free software.
 For work.
 
 ### Alienware 15 Supreme
-
-
-
-## VPS
-
-### Conoha
-

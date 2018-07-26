@@ -1,9 +1,0 @@
-[
-  {"category": "program", "name": "intellij-plugin-examples", "title": "Intelli-J プラグイン開発サンプル(Scala)", "titleEn": "Intelli-J Plug-in Development examples"}
-  ,{"category": "program", "name": "intellij-plugin-examples-highlighter", "title": "Intelli-J コードハイライトプラグイン開発 (Scala)", "titleEn": "Intelli-J Plug-in Development highlighter examples using Scala"}
-  ,{"category": "program", "name": "conoha-ubuntu-setup", "title": "Conohaサーバセットアップメモ", "titleEn": "Conoha server setup memo"}
-  ,{"category": "program", "name": "etc-commands", "title": "何かと忘れるコマンド一覧", "titleEn": "MEMO command list"}
- ,{"category": "english", "name": "learning-english", "title": "英語学習のメモ", "titleEn": "Learning English"}
-,{"category": "english", "name": "enjoy-english", "title": "趣味と英語を繋げる", "titleEn": "Enjoy English"}
-  ,{"category": "etc", "name": "privacy", "title": "プライバシーポリシー / 免責事項", "titleEn": "Privacy Policy / Disclaimer"}
-]

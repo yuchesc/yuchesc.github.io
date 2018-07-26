@@ -73,11 +73,20 @@ git push origin v1.0
 ### modify commit log
 
 ```git
-git commit —amend
+git commit --amend
 ```
 
 ## Systemd list auto starting units
 
 ```bash
 systemctl list-unit-files|grep enabled
+```
+
+
+## Sphinx
+
+### make a link to another rst file.
+
+```python
+ :doc:`filename`
 ```
