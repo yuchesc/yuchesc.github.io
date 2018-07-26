@@ -8,6 +8,6 @@
 
 ## Other
 
-* [MEMO](etc-commands.md)
+* [Commands memo](etc-commands.md)
 
 * [My Development Environment](development-environment.md)
