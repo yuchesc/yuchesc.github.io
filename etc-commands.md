@@ -3,6 +3,12 @@
 ## sbt tgz instead of ZIP
 
 ```bash
+sbt packageZipTarball
+```
+
+* old
+
+```bash
 sbt universal:package-zip-tarball
 ```
 
