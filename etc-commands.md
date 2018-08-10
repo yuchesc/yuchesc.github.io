@@ -12,7 +12,6 @@ sbt packageZipTarball
 sbt universal:package-zip-tarball
 ```
 
-
 ### Publish maven central
 
 ```bash
@@ -97,6 +96,14 @@ git commit --amend
 
 ```bash
 systemctl list-unit-files|grep enabled
+```
+
+## AWS
+
+### Change profile
+
+```bash
+export AWS_DEFAULT_PROFILE=hogepiyo
 ```
 
 
