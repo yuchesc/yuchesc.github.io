@@ -21,7 +21,7 @@ aws codecommit create-repository --repository-name {name} --repository-descripti
 Get commit-id first.
 
 ```bash
-aws codecommit get-branch --repository-name hc2hbb --branch-name master
+aws codecommit get-branch --repository-name {name} --branch-name master
 ```
 
 ```json
