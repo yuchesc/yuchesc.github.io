@@ -3,9 +3,14 @@
 ## sbt tgz instead of ZIP
 
 ```bash
-sbt universal:package-zip-tarball
+sbt packageZipTarball
 ```
 
+* old
+
+```bash
+sbt universal:package-zip-tarball
+```
 
 ### Publish maven central
 
@@ -92,7 +97,6 @@ git commit --amend
 ```bash
 systemctl list-unit-files|grep enabled
 ```
-
 
 ## Sphinx
 
