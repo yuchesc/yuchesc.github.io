@@ -12,4 +12,6 @@
 
 * [Unity memo](unity-memo.md)
 
+* [AWS memo](aws-memo.md)
+
 * [My Development Environment](development-environment.md)

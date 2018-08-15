@@ -98,15 +98,6 @@ git commit --amend
 systemctl list-unit-files|grep enabled
 ```
 
-## AWS
-
-### Change profile
-
-```bash
-export AWS_DEFAULT_PROFILE=hogepiyo
-```
-
-
 ## Sphinx
 
 ### make a link to another rst file.
