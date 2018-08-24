@@ -1,5 +1,11 @@
 # MEMO command list
 
+## Make virtual env for python3
+
+```bash
+python3 -m venv [name]
+```
+
 ## sbt tgz instead of ZIP
 
 ```bash
