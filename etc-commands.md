@@ -112,3 +112,10 @@ systemctl list-unit-files|grep enabled
  :doc:`filename`
 ```
 
+## change power shell policy on windows
+
+Run as an administrator.
+
+```bash
+Set-ExecutionPolicy RemoteSigned
+```
