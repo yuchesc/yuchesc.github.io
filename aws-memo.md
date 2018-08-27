@@ -1,5 +1,11 @@
 # AWS memo
 
+## Do it first when launched EC2.
+
+```bash
+sudo ln -s /usr/bin/python3 /usr/bin/python && sudo apt-get update && sudo apt-get upgrade -y
+```
+
 ## Local
 
 ### Change profile
