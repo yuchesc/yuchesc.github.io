@@ -1,5 +1,11 @@
 # MEMO command list
 
+## Change DNS on Ubuntu 18.04
+
+```bash
+python3 -m venv [name]
+```
+
 ## Make virtual env for python3
 
 ```bash
@@ -96,6 +102,12 @@ git push origin v1.0
 
 ```git
 git commit --amend
+```
+
+### Restore deleted file
+
+```git
+git checkout HEAD -- <filename>
 ```
 
 ## Systemd list auto starting units
