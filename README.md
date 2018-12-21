@@ -15,3 +15,5 @@
 * [AWS memo](aws-memo.md)
 
 * [My Development Environment](development-environment.md)
+
+(C) yuchesc
